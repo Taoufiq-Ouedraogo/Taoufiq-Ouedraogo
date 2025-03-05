@@ -43,8 +43,8 @@
 
 
 <!-- Intro -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=10&color=00C567&center=true&vCenter=true&width=500&height=200&lines=Artificial+Intelligence+%26+Quantitative+Research" alt="Typing SVG" /></a>
+<p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=3000&pause=10&color=00C567&center=true&vCenter=true&width=500&height=70&lines=Artificial+Intelligence+%26+Quantitative+Research" alt="Typing SVG" /></a>
 </p>
 
 
