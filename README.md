@@ -37,9 +37,7 @@
 
 
 <!-- Intro -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=5&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Artificial+Intelligence;++++++++++++%2B;+Quantitative+Research+" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&vCenter=true&multiline=true&width=500&height=130&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
 
 
 
