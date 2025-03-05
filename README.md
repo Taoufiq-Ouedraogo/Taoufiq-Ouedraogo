@@ -43,7 +43,7 @@
 
 
 <!-- Intro -->
-<p>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=00C567&center=true&vCenter=true&width=500&height=70&lines=Artificial+Intelligence+%26+Quantitative+Research" alt="Typing SVG" /></a>
 </p>
 
