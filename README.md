@@ -38,11 +38,13 @@
 <h3 align="center">Just passionate about Artificial Intelligence and Quantitative Research ...</h3>
 
 
-<!-- Spot Phrase -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&vCenter=true&multiline=true&width=500&height=300&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
-</p>
+<br>
 
+
+<!-- Intro -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&multiline=true&width=500&height=500&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
+</p>
 
 
 <br>
