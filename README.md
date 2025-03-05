@@ -29,6 +29,8 @@
 </p>
 
 
+<br>
+
 
 <!-- Intro -->
 <h1 align="center">Hi 👋, I'm Taoufiq OUEDRAOGO</h1>
@@ -37,8 +39,9 @@
 
 
 <!-- Intro -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&vCenter=true&multiline=true&width=500&height=130&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&vCenter=true&multiline=true&width=500&height=300&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
+</p>
 
 
 
