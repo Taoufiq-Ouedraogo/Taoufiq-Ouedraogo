@@ -38,7 +38,7 @@
 <h3 align="center">Just passionate about Artificial Intelligence and Quantitative Research ...</h3>
 
 
-<!-- Intro -->
+<!-- Spot Phrase -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=2000&pause=1&center=true&vCenter=true&multiline=true&width=500&height=300&lines=Artificial+Intelligence;+++++++++++++++%2B;Quantitative+Research" alt="Typing SVG" /></a>
 </p>
@@ -94,7 +94,7 @@
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="Apache Spark" width="110" height="60"/></a>
   <a href="https://kafka.apache.org/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:625/0*kdp_y7VTwZ-499q6.png" alt="Kafka" width="120" height="60"/></a>
   <a href="https://www.snowflake.com/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png" alt="Snowflake" width="100" height="60"/></a>
-      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> </a>
+      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="60"/> </a> 
 </p>
 
 
