@@ -134,6 +134,12 @@
 
  
 
+# My CV
+
+You can download or view my CV here:
+
+[My CV](https://github.com/Taoufiq-Ouedraogo/pfe_brief_my_press_AI/blob/main/CV_Taoufiq_OUEDRAOGO_English.pdf)
+
 
 ____________________
 ____________________
