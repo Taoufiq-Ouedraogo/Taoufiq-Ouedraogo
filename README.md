@@ -36,7 +36,7 @@
 <h1 align="center">Hi 👋, I'm Taoufiq OUEDRAOGO</h1>
 
 
-<h3 align="center">Just passionate about Artificial Intelligence and Quantitative Research ...</h3>
+<h3 align="center">Just passionate about Machine Learning and Quantitative Research ...</h3>
 
 
 <br>
