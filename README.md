@@ -33,7 +33,7 @@
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Taoufiq OUEDRAOGO</h1>
-<p style="font-size: 18px;">
+<p style="font-size: 58px;">
   Please, visit my <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">web-portfolio</a>.
 </p>
 
