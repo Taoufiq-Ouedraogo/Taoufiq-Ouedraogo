@@ -1,21 +1,22 @@
 
 <p style="display: flex; justify-content: space-between; align-items: right;">
+	
 <!-- Github followers (align left) -->
 <span style="display: flex; align-items: left;">
-<a href="https://github.com/taoufiq-ouedraogo" target="blank">
-<img src="https://img.shields.io/github/followers/taoufiq-ouedraogo?style=social" alt="taoufiq-ouedraogo" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
+	<a href="https://github.com/taoufiq-ouedraogo" target="blank">
+		<img src="https://img.shields.io/github/followers/taoufiq-ouedraogo?style=social" alt="taoufiq-ouedraogo" />
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
 </span>
 	
 <!-- Contact (align right) -->
-<span  style="display: flex; align-items: center; margin-left: 50px;"><a href="mailto:taoufiq.ouedraogo@outlook.com" target="blank">
-<img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png" alt="Email - Taoufiq Ouedraogo" height="50" width="50" />
-</a>
-	<a href="https://www.linkedin.com/in/taoufiq-ouedraogo-in-/" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
+<span  style="display: flex; align-items: center; margin-left: 50px;">
+	<a href="mailto:taoufiq.ouedraogo@outlook.com" target="blank">
+		<img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png" alt="Email - Taoufiq Ouedraogo" height="50" width="50" />
 	</a>
-
+	<a href="https://www.linkedin.com/in/taoufiq-ouedraogo-in-/" target="blank">
+		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
+	</a>
 </span>
 </p>
 
@@ -33,7 +34,7 @@
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Taoufiq OUEDRAOGO</h1>
-<p style="font-size: 58px;">
+<p style="font-size: 18px;">
   Please, visit my <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">web-portfolio</a>.
 </p>
 
@@ -59,7 +60,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="60" height="60"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="60" height="60"/></a>
   <a href="https://www.sas.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/SAS_logo_horiz.svg" alt="SAS" width="70" height="60"/></a>
   <a href="https://en.wikipedia.org/wiki/Lisp_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lisp_logo.svg/300px-Lisp_logo.svg.png" alt="Lisp" width="60" height="60"/></a>
