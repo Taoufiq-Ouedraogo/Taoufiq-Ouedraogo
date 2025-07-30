@@ -13,9 +13,6 @@
 
 <!-- Contact (align right) -->
 <span  style="display: flex; align-items: center; margin-left: 50px;">
-	<a href="mailto:taoufiq.ouedraogo@outlook.com" target="blank">
-		<img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png" alt="Email - Taoufiq Ouedraogo" height="50" width="50" />
-	</a>
 	<a href="https://www.linkedin.com/in/taoufiq-ouedraogo-in-/" target="blank">
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
 	</a>
