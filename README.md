@@ -33,8 +33,8 @@
 
 
 <!-- Intro -->
-<h1 align="center">Hi 👋, I'm Taoufiq OUEDRAOGO</h1>
-
+<h1 align="center">Hi, I'm Taoufiq OUEDRAOGO</h1>
+<p>Please, visit <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">my web-portfolio</a>.</p>
 
 <h3 align="center">Just passionate about Machine Learning and Quantitative Research ...</h3>
 
