@@ -47,10 +47,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=00C567&center=true&vCenter=true&width=500&height=100&lines=Machine+Learning+%26+Quantitative+Research" alt="Typing SVG" /></a>
 </p>
 
-<p class="typed-container" style="font-size: 1.5rem; font-style: italic; margin-top: 10px; text-align: center;">
-  <span class="typed" data-typed-items="Machine Learning, Quantitative Research"></span>
-  <span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
-</p>
+
 
 <br>
 
