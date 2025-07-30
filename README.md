@@ -8,7 +8,9 @@
 	</a>
 	<img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
 </span>
-	
+
+<br>
+
 <!-- Contact (align right) -->
 <span  style="display: flex; align-items: center; margin-left: 50px;">
 	<a href="mailto:taoufiq.ouedraogo@outlook.com" target="blank">
@@ -18,6 +20,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
 	</a>
 </span>
+
 </p>
 
 
@@ -49,6 +52,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=00C567&center=true&vCenter=true&width=500&height=100&lines=Machine+Learning+%26+Quantitative+Research" alt="Typing SVG" /></a>
 </p>
 
+<p class="typed-container">
+	<span class="typed" data-typed-items="Machine Learning, Quantitative Research"></span>
+	<span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
+</p>
 
 <br>
 
