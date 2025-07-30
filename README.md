@@ -126,7 +126,7 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/800px-Jira_Logo.svg.png" alt="Monday" width="90" height="40"/></a>
   <a href="https://monday.com/l/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Monday_logo.svg/2560px-Monday_logo.svg.png" alt="Git" width="160" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/></a>
-  <a href="https://about.gitlab.com" target="_blank"><img src="https://www.logiciel-libre.org/stock/img/product/gitlab-stackedwmnobg.png" alt="Git" width="60" height="60"/></a>
+  <a href="https://about.gitlab.com" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2022/03/Gitlab-Logo.png" alt="Git" width="60" height="60"/></a>
   <a href="https://github.com" target="_blank"><img src="https://logo-marque.com/wp-content/uploads/2020/12/GitHub-Logo.png" alt="Git" width="90" height="60"/></a>
 </p>
 
