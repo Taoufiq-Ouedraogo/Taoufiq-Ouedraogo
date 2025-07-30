@@ -7,16 +7,15 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=taoufiq-ouedraogo&label=Profile%20views&color=0e75b6&style=flat" alt="tao" />
 </span>
+	
 <!-- Contact (align right) -->
 <span  style="display: flex; align-items: center; margin-left: 50px;"><a href="mailto:taoufiq.ouedraogo@outlook.com" target="blank">
 <img align="center" src="https://freesvg.org/img/Mail-Icon-White-on-Black.png" alt="Email - Taoufiq Ouedraogo" height="50" width="50" />
 </a>
-<a href="https://www.linkedin.com/in/taoufiq-ouedraogo-in-/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
-</a>
-<a href="https://www.kaggle.com/taoufiqouedraogo" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Taoufiq Ouedraogo" height="30" width="40" />
-</a>
+	<a href="https://www.linkedin.com/in/taoufiq-ouedraogo-in-/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Taoufiq Ouedraogo" height="30" width="40" />
+	</a>
+
 </span>
 </p>
 
@@ -34,7 +33,9 @@
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Taoufiq OUEDRAOGO</h1>
-<p>Please, visit <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">my web-portfolio</a>.</p>
+<p style="font-size: 18px;">
+  Please, visit my <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">web-portfolio</a>.
+</p>
 
 <h3 align="center">Just passionate about Machine Learning and Quantitative Research ...</h3>
 
