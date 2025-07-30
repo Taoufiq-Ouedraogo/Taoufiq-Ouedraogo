@@ -132,15 +132,6 @@
 
 
 
- 
-
-# My CV
-
-You can download or view my CV here:
-
-[My CV](https://github.com/Taoufiq-Ouedraogo/Taoufiq-Ouedraogo/blob/main/CV_Taoufiq_OUEDRAOGO_English.pdf)
-
-
 ____________________
 ____________________
 <p align="center">
@@ -151,9 +142,6 @@ ____________________
 
  
 <p  align="center">
-	<span>
-		<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=taoufiq-ouedraogo&"  alt="taoufiq-ouedraogo" />
-	</span>
 	<span>
 		<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=taoufiq-ouedraogo&show_icons=true&locale=en&layout=compact"  alt="Most Used Languages" />
 	</span>
