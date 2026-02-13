@@ -35,7 +35,7 @@
 <!-- Intro -->
 <h1 align="center">Hi, I'm Taoufiq OUEDRAOGO</h1>
 <p style="font-size: 18px;">
-  Please, visit my <a href="https://taoufiq-ouedraogo.github.io/my-web-portfolio/" target="_blank">web-portfolio</a>.
+  Please, visit my <a href="(https://sites.google.com/view/taoufiq-o/" target="_blank">web-portfolio</a>.
 </p>
 
 <h3 align="center">Just passionate about Machine Learning and Quantitative Research ...</h3>
