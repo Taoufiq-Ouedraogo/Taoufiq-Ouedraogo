@@ -44,9 +44,11 @@ Please visit my <a href="https://sites.google.com/view/taoufiq-o/" target="_blan
 
 <!-- Intro -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=4000&pause=1000&color=00C567&center=true&vCenter=true&width=500&height=100&lines=Machine+Learning+%26+Quantitative+Research" alt="Typing SVG" /></a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Exo+2&size=25&duration=4000&pause=1000&color=D40000&center=true&vCenter=true&width=500&height=70&lines=Machine+Learning+%26+Quantitative+Research" 
+    alt="Machine Learning & Quantitative Research"
+  />
 </p>
-
 
 
 <br>
